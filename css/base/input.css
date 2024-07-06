@@ -65,6 +65,10 @@
     background-color: unset;
     outline: unset;
     box-sizing: border-box;
+    background-image: url(/lib/image/search.svg);
+    background-repeat: no-repeat;
+    background-size: 16px;
+    background-position: 10px center;
 
 }
 .input-icon:focus{

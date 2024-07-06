@@ -1,0 +1,29 @@
+.toast-message{
+    height: 48px;
+    border-radius: 4px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    background-image: url(/lib/image/icons8-success.svg);
+    background-repeat: no-repeat;
+    background-size: 16px;
+    background-position: 10px center;
+    box-shadow: 0 3px 6px;
+
+}
+
+.title{
+    margin-left: 32px;
+}
+
+.icon-x{
+    margin-left: 40px;
+    height: 16px;
+    width: 16px;
+    background-image: url(/lib/image/icons8-x-24.png);
+    background-repeat: no-repeat;
+    background-size: 16px;
+    background-position: center;
+    cursor: pointer;
+}
+

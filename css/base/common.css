@@ -2,10 +2,13 @@
 
 @import url(./input.css);
 
+
+@import url(./toastMessage.css);
+
 @font-face {
     font-family: Roboto;
     src: url(/lib/font/Roboto-Medium.ttf);
-}
+}    
 
 @font-face {
     font-family: RobotoBlackItalic;
@@ -25,4 +28,8 @@ body{
 button{
     font-family: Roboto;
     cursor: pointer;
+}
+
+.mt-20{
+    margin-top: 20px;
 }
